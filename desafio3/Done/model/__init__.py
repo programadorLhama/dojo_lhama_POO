@@ -1,0 +1,1 @@
+from .jogador import Jogador

@@ -1,0 +1,10 @@
+Dois amigos brincam de pedra, papel ou tesoura.
+
+Descreva um programa que simule algumas rodadas desse esse jogo. Alem disso,
+ao fim de cada rodada, apresente a contagem do placar de vitórias!
+
+obs: utilize a seguinte função abaixo para se executar uma escolha aleatória
+
+import random
+foo = ['a', 'b', 'c', 'd', 'e']
+print(random.choice(foo)) // Algum valor aleatorio da lista foo

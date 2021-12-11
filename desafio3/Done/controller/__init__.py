@@ -1,0 +1,1 @@
+from .gerenciador_de_jogo import GerenciadorDeJogo
