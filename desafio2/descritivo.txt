@@ -1,0 +1,5 @@
+Considerando o descritivo do desafio anterior, o edificio
+decidiu por implementar 2 elevadores e, desse modo, transportar
+mais moradores de forma mais independente.
+
+Descreva um programa para esse novo cenario
