@@ -1,0 +1,11 @@
+Uma Biblioteca deseja registrar todos os seus livros em um sistema.
+Cada livro deve ter os seguintes descritivos:
+    - Titulo
+    - Autor
+    - Ano
+    - Numero de identificação
+
+O sistem deve ser capaz apenas de inserir registros de livros
+e também lista-los quando desejado.
+
+Implemente tal sistema.
