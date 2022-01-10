@@ -1,0 +1,10 @@
+Uma familia deseja realizar uma viajem mas está com certas duvidas sobre o destino.
+Para cada destino esperado, tem-se uma atividade para ser feita.
+A lista de desejo é apresentada abaixo:
+
+    - Niteroi -> ir para a praia
+    - Belo Horizonte -> Visitar Inhotim
+    - Fortaliza -> Ir para o Beach Park
+
+Implemente um sistema para gerenciar essa viajem, ou seja:
+De acordo com a escolha do destino, realize a atividade desejada
