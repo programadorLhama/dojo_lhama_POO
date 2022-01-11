@@ -1,0 +1,7 @@
+Desejamos criar um novo sistema proprio para envio de emails de uma empresa
+Tal sistema tem, por padrão, o nome e o email da empresa já registrados.
+
+Tal sistema deve, através de interações com o usuario, definir um titulo do email e seu texto.
+Alem disso, deve ser possivel inserir vários destinatários para o envio de certo email.
+
+Desenvolva tal sistema
