@@ -1,0 +1,14 @@
+Uma calculadora recebe dois numeros para fazer seu calculo.
+
+O primeiro numero é multiplicado por 5 e dividico por 8.
+Em seguida, é retirada a raiz quadrada do resultado anterior e
+elevado ao cubo.
+
+O segundo numero é elevado ao quadrado e somado ao valor inicial.
+o resultado anterior é multiplicado por 2, dividido por 5 e somado a uma constante
+de 5.7
+
+Por fim, os resultados anteriores são somados e a soma é multiplicada por uma constante
+de 4.2
+
+Implemente essa calculadora

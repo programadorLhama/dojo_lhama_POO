@@ -1,0 +1,2 @@
+resultado = None
+print(resultado)
