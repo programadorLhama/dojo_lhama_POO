@@ -1,0 +1,11 @@
+Considerando o resultado do desafio anterior, temos o seguinte caso:
+
+Agora, é de desejo termos 2 calculadoras. Ambas possuindo calculos similares entretanto a segunda calculadora
+se diferencia da primeira pelo calculo do segundo numero:
+
+O segundo numero é elevado ao cubo. Após isso, o resultado obtido é subtraido pelo valor inicial do segundo numero
+e multiplicado por dois. Por fim, o resultado é somado a outra constante de proporcionalidade de valor 1.2
+
+Vale ressaltar que os calculos da primeira calculadora se mantem os mesmos.
+
+Implemente essas duas calculadoras, entretanto tente utilizar o conceito de Herança de Classes e Métodos Abstratos
