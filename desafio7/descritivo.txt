@@ -1,6 +1,6 @@
 Uma calculadora recebe dois numeros para fazer seu calculo.
 
-O primeiro numero é multiplicado por 5 e dividico por 8.
+O primeiro numero é multiplicado por 5 e dividido por 8.
 Em seguida, é retirada a raiz quadrada do resultado anterior e
 elevado ao cubo.
 

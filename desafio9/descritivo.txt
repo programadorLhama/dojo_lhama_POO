@@ -1,0 +1,6 @@
+Uma classe TextoSecreto possui um texto que somente deve ser apresentado
+para usuarios cadastrados em certo sistema. Portanto, devemos ter um sistema
+de armazenamento de usuarios e que, de acordo com o login correto, possa apresentar
+a devida mensagem.
+
+Implemente tal sistema de login
